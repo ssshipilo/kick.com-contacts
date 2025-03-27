@@ -9,13 +9,13 @@ This project is a web scraper that extracts live streamers from the Gambling cat
 - Saves the collected data in an Excel file.
 - Can be easily modified to scrape different streaming categories by changing the URL.
 
-## Requirements" 
-- Python 3.10" 
-- SeleniumBase" 
-- Pandas" 
+## Requirements
+- Python 3.10
+- SeleniumBase
+- Pandas
 
-## Installation" 
-1. Clone the repository:" 
+## Installation
+1. Clone the repository:
 ```bash
    git clone https://github.com/your-repo/streamer-scraper.git
    cd streamer-scraper
@@ -37,7 +37,7 @@ This project is a web scraper that extracts live streamers from the Gambling cat
 - Extracts streamers' details, including their social media links.
 - Saves the extracted data into an Excel file named `output.xlsx`.
 
-## Customization" 
+## Customization
 To change the scraped category, modify the `BASE_URL` parameter in `scraper.py`. Replace `Gambling` with any other desired category." 
 
 ## License
